@@ -21,3 +21,4 @@ This is just a list of things that I think I'll want to see; they'll be added as
 * Flexible map sizes (and map size > window size)
 * Support non-square tiles
 * Add properties to tiles (requires a new text area widget)
+* Code cleanup (seriously needed, but refactoring as I go to an extent.)
