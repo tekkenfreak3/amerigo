@@ -22,3 +22,5 @@ This is just a list of things that I think I'll want to see; they'll be added as
 * Support non-square tiles
 * Add properties to tiles (requires a new text area widget)
 * Code cleanup (seriously needed, but refactoring as I go to an extent.)
+* Entities, objects not bound to the grid, nor to being made of a single tile.
+* Render the map to a single image file to avoid overhead. Involves extracting tiles with properties into entities, which in turn means entities need to exist.
